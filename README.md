@@ -36,7 +36,7 @@ This repo can be cited using DOI as tagged at the beginning of this README file.
   publisher    = {Zenodo},<br>
   version      = {v1.0.4},<br>
   doi          = {10.5281/zenodo.6571191},<br>
-  url          = {https://doi.org/10.5281/zenodo.6571191}<br>
+  url          = { https://doi.org/10.5281/zenodo.6571191 }<br>
 }
 
 
