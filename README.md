@@ -13,9 +13,18 @@ link to data: https://drive.google.com/drive/folders/1KMN5FP7Oytbm5zefKjAaYp-LuM
 </br></br>
 ### Initial Analysis Results:
 Correlation between proportion of Democrat statement rated as false and proportion of Republican statement rated as false: </br>
-*Pearson correlation* = -0.5511132959504763, *p* = 2.639847472009231e-30
-![plot](README_file/initial_analysis.png) </br>
-In this plot, each data point represents a factchecker. </br></br>
-
+*Pearson correlation* = -0.13360102098360568, *p* = 0.03402135938065294
+![plot](README_file/corr.png) </br>
 We can see that the proportion of Democrat statement rated as false and proportion of Republican statement rated as false are negatively correlated. Our first research question that whether there is difference (I might modify the question to whether they are negatively correlated) between the proportion of Democrat statement rated as false and proportion of Republican statement rated as false is answered. With this test of our first hypothesis, we can continue to explore the mechanisms behind this negative correlation.
+![plot](README_file/t.png) </br>
+![plot](README_file/sent.png) </br>
+In these plots, each data point represents a factchecker. </br></br>
+We can see that the two control variables do not have much effect on the dependent variable.
+![plot](README_file/m1.png) </br>
+![plot](README_file/m2.png) </br>
+![plot](README_file/m3.png) </br>
+We can see that neither of the control variables have siginifcant coefficients, and the coefficient of the left false proprotion does not changes as the control variables go into the modesl.
+
+
+
 
