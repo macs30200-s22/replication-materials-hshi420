@@ -25,6 +25,8 @@ We can see that the two control variables do not have much effect on the depende
 ![plot](README_file/m3.png) </br>
 We can see that neither of the control variables have siginifcant coefficients, and the coefficient of the left false proprotion does not changes as the control variables go into the modesl. <br><br>
 
+This repo can be cited using DOI as tagged at the beginning of this README file.
+
 @software{haohan_shi_2022_6571191,<br>
   author       = {Haohan Shi},<br>
   title        = {{macs30200-s22/replication-materials-hshi420: <br>
