@@ -5,14 +5,8 @@ The code is written in Python 3.9.7 and all of its dependencies can be installed
 ```
 pip install -r requirements.txt
 ```
-Then you can import the initial_analysis module located in ``code`` directory.
-```
-import initial_analysis #make sure that you are in the code directory
-```
-The initial analysis uses preprocessed data ``left_leaning_factcheckers.csv`` located in the the ``processed_data`` directory. Run the following code to replicate the results.
-```
-initial_analysis.initial_analysis('../processed_data/left_leaning_factcheckers.csv')
-```
+Then you run the codes in ``final_draft_analysis.ipynb`` in code directory with ``raters.csv`` in processed_data directory.
+
 The processed_data directory only contains the processed data that is used in initial process, and the code for preprocessing data are in ``analysis.ipynb`` located in the ``code`` directory. The raw data is too large to be uploaded to github, and I have uploaded them to Google drive.
 </br></br>
 link to data: https://drive.google.com/drive/folders/1KMN5FP7Oytbm5zefKjAaYp-LuMoLDdV8?usp=sharing
