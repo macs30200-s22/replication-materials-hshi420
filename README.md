@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/484130480.svg)](https://zenodo.org/badge/latestdoi/484130480)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6571191.svg)](https://doi.org/10.5281/zenodo.6571191)
 
 # replication-materials-hshi420
 The code is written in Python 3.9.7 and all of its dependencies can be installed by running the following in the terminal (with the ``requirements.txt`` file included in this repository): 
